@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlee0210/ticTacToe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlee0210/ticTacToe/issues"
+  },
+  "homepage": "https://github.com/mlee0210/ticTacToe#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
